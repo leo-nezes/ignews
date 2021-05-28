@@ -1,4 +1,4 @@
-import Stripe from 'stripe';
+import Stripe from 'stripe'; // Lib do stripe para o back-end
 import { version } from '../../package.json';
 
 export const stripe = new Stripe(
