@@ -52,7 +52,4 @@ export async function saveSubscription (
       )
     );
   }
-
-  
-
 }
